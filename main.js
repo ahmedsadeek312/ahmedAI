@@ -24,7 +24,7 @@ export const userDiv = (data) => {
   <!-- User Chat -->
           <div class="flex items-center gap-2 justify-start">
             <img
-              src="user.jpg"
+              src="public/user.jpg"
               alt="user icon"
               class="w-10 h-10 rounded-full"
             />
@@ -44,7 +44,7 @@ export const aiDiv = (data) => {
               ${data}
             </pre>
             <img
-              src="chat-bot.jpg"
+              src="public/chat-bot.jpg"
               alt="user icon"
               class="w-10 h-10 rounded-full"
             />
